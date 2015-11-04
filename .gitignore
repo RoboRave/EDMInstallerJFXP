@@ -27,7 +27,12 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
-
+*.dll
+*.class
+*.jar
+/dist/bundles/EDMInstallerJFXP/runtime/
+/build/
+/nbproject/
 # Thumbnails
 ._*
 
